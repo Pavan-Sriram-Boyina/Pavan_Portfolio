@@ -28,7 +28,7 @@ const Footer = () => {
         <a href="https://www.linkedin.com/in/adithya-venkata-pavan-sriram-boyina-558377259/">
           <BsLinkedin />
         </a>
-        <a href="https://github.com/Thakshila-Bandara">
+        <a href="https://github.com/Pavan-Sriram-Boyina">
           <BsGithub />
         </a>
       </div>
