@@ -3,7 +3,7 @@ import "./about.css";
 import { GiGraduateCap } from "react-icons/gi";
 import { BsBookmarkStar } from "react-icons/bs";
 import { TfiWorld } from "react-icons/tfi";
-import Profile_Photo from "../../assets/Profile_image.png";
+import Profile_Photo from "../../assets/graduation_day-removebg-preview.png";
 const About = () => {
   return (
     <section id="about">
@@ -12,7 +12,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={Profile_Photo} alt="Me" />
+            <img src={Profile_Photo} className="image" alt="Me" />
           </div>
         </div>
         <div className="about__content">

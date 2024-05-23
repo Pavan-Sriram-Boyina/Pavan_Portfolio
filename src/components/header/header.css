@@ -10,6 +10,7 @@ header{
     position: relative;
 }
 
+
 /* CTA CSS */
 
 .cta{
@@ -55,6 +56,8 @@ header{
 
 .me > img {
     margin-left: .5rem;
+    height: 370px;
+    text-align: center;
 }
 
 /* Scroll down CSS */
@@ -81,7 +84,12 @@ header{
     }
 
     .me > img{
-        margin-top: 2.5rem;
+        display: none;
+    
+    }
+
+    .me{
+        display: none;
     }
 }
 

@@ -4,6 +4,10 @@
     gap: 15%;
 }
 
+.image {
+    height: 320px;
+    margin-bottom: 60px;
+}
 
 .about__me{
     width: 90%;
@@ -109,5 +113,8 @@
 
     .about__content p{
         margin: 1.5rem 0;
+    }
+    .image{
+        height: 250px;
     }
  }
