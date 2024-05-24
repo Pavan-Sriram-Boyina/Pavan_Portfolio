@@ -21,6 +21,7 @@ const Myprojects = () => {
             <a
               href="https://github.com/Pavan-Sriram-Boyina/Jobby-App"
               target="_blank"
+              rel="noopener noreferrer"
               className="btn"
             >
               Github
@@ -28,7 +29,7 @@ const Myprojects = () => {
             <a
               href="https://pavansrjobby.ccbp.tech/login"
               target="_blank"
-              
+              rel="noopener noreferrer"
               className="btn btn-primary"
             >
               Visit Website
@@ -45,7 +46,7 @@ const Myprojects = () => {
             <a
               href="https://github.com/Pavan-Sriram-Boyina/Pavan_Portfolio"
               target="_blank"
-            
+              rel="noopener noreferrer"
               className="btn"
             >
               Github
@@ -53,7 +54,7 @@ const Myprojects = () => {
             <a
               href="https://pavansriram.netlify.app/"
               target="_blank"
-              
+              rel="noopener noreferrer"
               className="btn btn-primary"
             >
               Visit Website
@@ -71,7 +72,7 @@ const Myprojects = () => {
             <a
               href="https://psrfoodmunch.ccbp.tech/"
               target="_blank"
-            
+              rel="noopener noreferrer"
               className="btn btn-primary"
             >
               Visit Website
@@ -87,7 +88,7 @@ const Myprojects = () => {
             <a
               href="https://drive.google.com/file/d/1NGfpFCI_loiJAAGblPsfQOSvrEqQ3BfY/view?usp=drivesdk"
               target="_blank"
-            
+              rel="noopener noreferrer"
               className="btn btn-primary"
             >
               Visit Website
