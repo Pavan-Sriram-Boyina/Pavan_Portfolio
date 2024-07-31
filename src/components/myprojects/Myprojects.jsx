@@ -86,7 +86,7 @@ const Myprojects = () => {
           <h3>My Resume</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://drive.google.com/file/d/1NGfpFCI_loiJAAGblPsfQOSvrEqQ3BfY/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1Df5lRgFRUysqExlW5zrSbn8xWthqJTLT/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-primary"
